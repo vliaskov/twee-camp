@@ -1,0 +1,17 @@
+::StoryTitle
+Camp Site 
+
+::Start
+It's your first week in the youth camp. Other children are running around playing tag and other games. Some of them glance at you in theri frenzy and wave for you to [[join->PlayGroupFirstTime]] them. There is also quiet spot under a pine tree, with a view to the sea, perhaps you could [[read your new comic->ReadAloneComic]] there. In front of you, about 50 metres away, the small waves of the beach are inviting you for a [[swim->Swim]]. 
+
+::PlayGroupFirstTime
+One of the kids says "You run too slow fatso! Go to the other team!". 
+
+::ReadAloneComic
+You sit under the tall tree, and flip your comicbook open. A slight breeze carreses your face. 
+
+::Swim
+The waves shiyly touch your toes as you walk along the sandy beach.
+
+ 
+
